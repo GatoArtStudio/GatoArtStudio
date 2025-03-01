@@ -1,7 +1,7 @@
 # 👋 ¡Hola! Soy GatoArtStudio
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/GatoArtStudios/gatoartstudios.github.io/refs/heads/Gatun/src/img/logo.jpg" alt="GatoArtStudio Logo" width="200" height="200" style="border-radius: 100px;" />
+  <img src="./logo.png" alt="GatoArtStudio Logo" width="200" height="200" style="border-radius: 50%;" />
 </div>
 
 ## 🚀 Sobre mí
@@ -70,6 +70,13 @@ Soy un Desarrollador y Diseñador Gráfico especializado en la creación de mods
 ![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ_IDEA-000000?style=for-the-badge&logo=intellij-idea&logoColor=white)
 ![Arch Linux](https://img.shields.io/badge/Arch_Linux-1793D1?style=for-the-badge&logo=arch-linux&logoColor=white)
 ![Debian](https://img.shields.io/badge/Debian-A81D33?style=for-the-badge&logo=debian&logoColor=white)
+
+## 📊 Estadísticas de GitHub
+
+<div align="center" style="display: flex; justify-content: space-between;">
+  <img height="200px" src="https://github-readme-stats.vercel.app/api?username=GatoArtStudios&show_icons=true&theme=radical" />
+  <img height="200px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GatoArtStudios&theme=radical&layout=compact" />
+</div>
 
 ## 🎮 Especialidades
 

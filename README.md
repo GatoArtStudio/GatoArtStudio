@@ -1,7 +1,7 @@
 # 👋 ¡Hola! Soy GatoArtStudio
 
 <div align="center">
-  <img src="src/img/logo.jpg" alt="GatoArtStudio Logo" width="200" height="200" style="border-radius: 50%;" />
+  <img src="https://raw.githubusercontent.com/GatoArtStudios/gatoartstudios.github.io/refs/heads/Gatun/src/img/logo.jpg" alt="GatoArtStudio Logo" width="200" height="200" style="border-radius: 50%;" />
 </div>
 
 ## 🚀 Sobre mí

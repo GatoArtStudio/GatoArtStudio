@@ -74,8 +74,8 @@ Soy un Desarrollador y Diseñador Gráfico especializado en la creación de mods
 ## 📊 Estadísticas de GitHub
 
 <div align="center" style="display: flex; justify-content: space-between;">
-  <img height="200px" src="https://github-readme-stats.vercel.app/api?username=GatoArtStudios&show_icons=true&theme=radical" />
-  <img height="200px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GatoArtStudios&theme=radical&layout=compact" />
+  <img height="200px" src="https://github-readme-stats.vercel.app/api?username=GatoArtStudio&show_icons=true&theme=radical" />
+  <img height="200px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GatoArtStudio&theme=radical&layout=compact" />
 </div>
 
 ## 🎮 Especialidades
@@ -98,8 +98,8 @@ Soy un Desarrollador y Diseñador Gráfico especializado en la creación de mods
 
 <div align="center">
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://gatoartstudios.github.io)
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/gatoartstudios)
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://gatoartstudio.art/)
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/gatoartstudio)
 
 </div>
 

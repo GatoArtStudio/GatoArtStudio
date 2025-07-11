@@ -74,8 +74,8 @@ Soy un Desarrollador y Diseñador Gráfico especializado en la creación de mods
 ## 📊 Estadísticas de GitHub
 
 <div align="center" style="display: flex; justify-content: space-between;">
-  <img height="200px" src="https://github-readme-stats.vercel.app/api?username=GatoArtStudio&show_icons=true&theme=radical" />
-  <img height="200px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GatoArtStudio&theme=radical&layout=compact" />
+  <img height="200px" src="https://github-readme-stats.vercel.app/api?username=GatoArtStudio&count_private=true&cache_seconds=1800&show_icons=true&theme=radical" />
+  <img height="200px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GatoArtStudio&theme=radical&layout=compact&count_private=true" />
 </div>
 
 ## 🎮 Especialidades

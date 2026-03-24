@@ -1,9 +1,5 @@
 # 👋 ¡Hola! Soy GatoArtStudio
 
-<div align="center">
-  <img src="./Logo.png" alt="GatoArtStudio Logo" width="200" height="200" style="border-radius: 50%;" />
-</div>
-
 ## 🚀 Sobre mí
 
 Soy un Desarrollador y Diseñador Gráfico especializado en la creación de mods y plugins para Minecraft. Me apasiona combinar la programación con el diseño para crear experiencias únicas y atractivas en el mundo del gaming.
